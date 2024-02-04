@@ -1,4 +1,4 @@
 # HiFiPLN_Colab
-Notebook made around Google Collaboratory for training and fine-tuning the HiFiPLN vocoder
+Notebook made around Google Collaboratory for fine-tuning the HiFiPLN vocoder
 
-# Yet to be realeased
+#Please let me know on Issues any problems with the notebook!
